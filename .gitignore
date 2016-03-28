@@ -4,3 +4,13 @@ dist
 .sass-cache
 bower_components
 test/bower_components
+__w_dvt-app
+/gulpfile.babel.js
+/package.json
+/.yo-rc.json
+/.editorconfig
+/.bowerrc
+/.babelrc
+/app/robots.txt
+/css/
+/test/
