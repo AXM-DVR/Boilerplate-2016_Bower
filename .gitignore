@@ -5,7 +5,6 @@ dist
 bower_components
 test/bower_components
 __w_dvt-app
-__w_dvt-app/_index_test_01
 /gulpfile.babel.js
 /package.json
 /.yo-rc.json
@@ -15,3 +14,4 @@ __w_dvt-app/_index_test_01
 /app/robots.txt
 /css/
 /test/
+/.gitattributes
