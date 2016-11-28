@@ -1,0 +1,33 @@
+{
+  "lang": "fr",
+  "dir": "ltr",
+  "name": "uQuatre",
+  "description": "...!",
+  "short_name": "u4",
+  "icons": [{
+    "src": "images/icons/apple-touch-icon-64.png",
+    "sizes": "64x64",
+    "type": "image/png"
+  },{
+    "src": "images/icons/apple-touch-icon-128.png",
+    "sizes": "128x128"
+  }, {
+    "src": "images/icons/apple-touch-icon-180.png",
+    "sizes": "180x180"
+  }],
+  "scope": "/u4/",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "blue",
+  "background_color": "red",
+  "screenshots": [{
+    "src": "images/yo.png",
+    "sizes": "375x360",
+    "type": "image/png"
+  },{
+    "src": "images/yo.png",
+    "sizes": "375x360",
+    "type": "image/png"
+  }]
+}
