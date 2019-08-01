@@ -1,2 +1,2 @@
-# Boilerplate-2016_bower
+# Boilerplate-2016_Bower
 App simple w/ Bower (_ufourapp)
